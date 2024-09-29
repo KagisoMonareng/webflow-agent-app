@@ -1,0 +1,17 @@
+ECHO is on.
+# Python cache
+__pycache__/
+
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# macOS files
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
